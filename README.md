@@ -49,7 +49,7 @@ Coinbase operates within the blockchain and cryptocurrency domain, which has wit
 
 - **Innovation Ecosystems and Interoperability:** The advent of new protocols and platforms has enhanced interoperability among blockchain platforms, promoting collaboration and data sharing across multiple industries (Deloitte Insights, 2023).
 
-- **Diverse Industry Applications:** Blockchain technologies are used in sectors beyond financial services, including healthcare, retail, and government. Applications range from secure data-sharing, intercompany accounting, supply chain transparency, and creator monetization (Deloitte Insights, 2023).
+- **Diverse Industry Applications:** Blockchain technologies are used in sectors beyond financial services, including healthcare, retail, and government. Applications include secure data-sharing, intercompany accounting, supply chain transparency, and creator monetization (Deloitte Insights, 2023).
 
 ### Key Competitors and Their Market Strategies
 
@@ -124,11 +124,11 @@ These metrics consolidate Coinbase's robust response to recent market challenges
 ### Comparative Performance
 When compared to competitors, Coinbase shows distinct strengths and challenges:
 
-- **Market Share:** Coinbase holds over 11% of the entire cryptocurrency market capitalization, with $223 billion in customer assets (Benzinga, 2023).
+- **Market Share:** Coinbase holds over 11% of the entire cryptocurrency market capitalization, with $223 billion in customer assets (Backlinko, 2023).
 
-- **Competition from Binance:** Binance has a higher average daily volume and offers a wider variety of cryptocurrencies (Benzinga, 2023).
+- **Competition from Binance:** Binance has a higher average daily volume and offers a wider variety of cryptocurrencies (Backlinko, 2023).
 
-- **Emerging Competitors:** New platforms are expanding their offerings and user bases, providing services that compete directly with Coinbase (Benzinga, 2023).
+- **Emerging Competitors:** New platforms are expanding their offerings and user bases, providing services that compete directly with Coinbase (Backlinko, 2023).
 
 These metrics and comparative analyses indicate that while Coinbase remains a significant player in the cryptocurrency exchange market, it faces stiff competition and volatility, impacting its financial performance and market positioning.
 
@@ -170,4 +170,4 @@ These strategic recommendations aim to broaden Coinbase's market footprint, enha
 - G2. (n.d.). *Cryptocurrency exchanges*. [Link](https://www.g2.com/categories/cryptocurrency-exchanges)
 - Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [Link](https://bstrategyhub.com/coinbase-competitors-alternatives/)
 - Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*. [Link](https://www.businessofapps.com/data/coinbase-statistics/)
-- Benzinga. (2023). *Crypto Trading Platforms Market*. [Link](https://www.benzinga.com/pressreleases/23/08/33647961/crypto-trading-platforms-market-competitive-dynamics-global-outlook-2023-binance-coinbase-kraken-hu)
+- Backlinko. (2023). *Coinbase Usage and Trading Statistics (2023)*.[Link](https://backlinko.com/coinbase-users)
