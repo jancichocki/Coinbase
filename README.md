@@ -33,7 +33,7 @@ Coinbase differentiates itself with a multi-faceted approach:
 
 4. **Blockchain Infrastructure:** Coinbase’s infrastructure focuses on security, scalability, and stability. It is "blockchain agnostic," allowing easy integration of new blockchain technologies. Key aspects include immutability, ephemerality, consensus, and automation (AWS Startups Blog, n.d.).
 
-5. **Snapchain and Network Load Balancers:** Coinbase uses Snap chain for deploying blockchain nodes and Network Load Balancers (NLBs) to manage snapshots and ensure reliable node operation, minimizing network sync time and enabling rapid redeployment of blockchain states (AWS Startups Blog, n.d.).
+5. **Snapchain and Network Load Balancers:** Coinbase uses Snapchain for deploying blockchain nodes and Network Load Balancers (NLBs) to manage snapshots and ensure reliable node operation, minimizing network sync time and enabling rapid redeployment of blockchain states (AWS Startups Blog, n.d.).
 
 These technological innovations and strategic approaches position Coinbase as a comprehensive and user-friendly platform in the cryptocurrency market.
 
