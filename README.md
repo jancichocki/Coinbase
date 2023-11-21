@@ -170,4 +170,4 @@ These strategic recommendations aim to broaden Coinbase's market footprint, enha
 - G2. (n.d.). *Cryptocurrency exchanges*. [Link](https://www.g2.com/categories/cryptocurrency-exchanges)
 - Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [Link](https://bstrategyhub.com/coinbase-competitors-alternatives/)
 - Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*. [Link](https://www.businessofapps.com/data/coinbase-statistics/)
-- Backlinko. (2023). *Coinbase Usage and Trading Statistics (2023)*.[Link](https://backlinko.com/coinbase-users)
+- Backlinko. (2023). *Coinbase Usage and Trading Statistics (2023)*. [Link](https://backlinko.com/coinbase-users)
