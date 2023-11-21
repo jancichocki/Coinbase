@@ -1,4 +1,4 @@
-![xrp](xrp.jpg.png)
+![Coinbase](Coinbase.png)
 
 # Coinbase Case Study
 
