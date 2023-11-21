@@ -61,10 +61,6 @@ Coinbase operates within the blockchain and cryptocurrency domain, a field that 
 
 - **Crypto.com:** A comprehensive cryptocurrency exchange and wallet service, Crypto.com competes closely with Coinbase in terms of trading volume (Business Strategy Hub, 2023).
 
-- **FTX Exchange:** Known for its innovative approach, FTX Exchange offers cryptocurrency derivatives and has developed its own NFT marketplace (Business Strategy Hub, 2023).
-
-- **Bittrex:** Launched in 2014, Bittrex is recognized for its low fees and a wide range of cryptocurrencies, though it has lower trading limits compared to Coinbase (Business Strategy Hub, 2023).
-
 - **eToro:** Introduced Bitcoin trading in 2013, eToro is a social investment platform that appeals especially to beginner traders (Business Strategy Hub, 2023).
 
 - **KuCoin:** Based in Singapore, KuCoin is a cryptocurrency exchange that caters to experienced traders outside the US (Business Strategy Hub, 2023).
