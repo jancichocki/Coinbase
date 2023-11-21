@@ -73,6 +73,35 @@ Coinbase operates within the blockchain and cryptocurrency domain, a field that 
 
 These competitors adopt a variety of strategies, from technological innovation and expanding cryptocurrency offerings to targeting specific user segments and developing new business models within the evolving landscape of blockchain and cryptocurrency.
 
+##Results
+
+### Impact and Metrics
+Coinbase's business impact can be assessed through various metrics:
+
+- **Revenue:** Coinbase's revenue declined from $7.8 billion in 2021 to $3.1 billion in 2022, a 59.2% decline ([Business of Apps, 2023]).
+
+- **Net Loss:** The company experienced a net loss of $2.6 billion in 2022, compared to a net profit of $3 billion in 2021 ([Business of Apps, 2023]).
+
+- **User Base:** As of early 2022, Coinbase reported 98 million registered users, with 9 million active monthly users ([Business of Apps, 2023]).
+
+- **Valuation:** Coinbase's valuation decreased from $65 billion in 2021 to around $18 billion in 2022 ([Business of Apps, 2023]).
+
+- **Assets and Transaction Volume:** Total assets for 2022 were $89.7 billion, with an annual transaction volume of $830 billion ([Business of Apps, 2023]).
+
+- **Merchant Acceptance and Global Presence:** Over 8000 merchants accept Coinbase Bitcoin payments, and the company is available in over 100 countries ([Business of Apps, 2023]).
+
+### Comparative Performance
+When compared to competitors, Coinbase shows distinct strengths and challenges:
+
+- **Market Share:** Coinbase holds over 11% of the entire cryptocurrency market capitalization, with $223 billion in customer assets ([Benzinga, 2023]).
+
+- **Competition from Binance:** Binance has a higher average daily volume and offers a wider variety of cryptocurrencies ([Benzinga, 2023]).
+
+- **Emerging Competitors:** Platforms like Voyager, Gemini, eToro, Robinhood, Kraken, Cash App, and PayPal are expanding their offerings and user bases, providing various services that compete directly with Coinbase ([Benzinga, 2023]).
+
+These metrics and comparative analyses indicate that while Coinbase remains a significant player in the cryptocurrency exchange market, it faces stiff competition and market volatility, impacting its financial performance and market positioning.
+
+
 ## References
 - Wikipedia. (2023). *Coinbase*. [URL](https://en.wikipedia.org/wiki/Coinbase)
 - Crunchbase. (2023). *Coinbase - Funding, Financials, Valuation & Investors*. [URL](https://www.crunchbase.com/organization/coinbase/company_financials)
