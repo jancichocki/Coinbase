@@ -102,8 +102,6 @@ Coinbase operates within the blockchain and cryptocurrency domain, which has wit
 Each of these competitors offers unique features and services, differentiating themselves from Coinbase in various aspects such as the range of the currencies provided, technological advancements, market focus, and regulatory compliance.
 (G2, n.d.)
 
-These competitors adopt various strategies, from technological innovation and expanding cryptocurrency offerings to targeting specific user segments and developing new business models within the evolving landscape of blockchain and cryptocurrency.
-
 ## Results
 
 ### Impact and Metrics
