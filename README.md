@@ -18,16 +18,25 @@ Throughout its existence, Coinbase has successfully navigated numerous funding r
 Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Wikipedia, 2023).
 
 ## Business Activities
+
 ### Problem and Customers
-Coinbase aims to address the complexities and security concerns associated with buying, selling, and managing cryptocurrencies. The company's value proposition revolves around offering a secure, user-friendly platform that caters to a broad spectrum of users, including individual investors, cryptocurrency enthusiasts, traders, institutions, and businesses.
+Coinbase aims to address the complexities and security concerns associated with buying, selling, and managing cryptocurrencies. The company offers a secure, user-friendly platform that caters to a broad spectrum of users, including individual investors, cryptocurrency enthusiasts, traders, institutions, and businesses ([FourWeekMBA, n.d.]). Their services range from simple transactions to advanced trading and custody solutions, aiming to make cryptocurrency accessible and understandable for everyone ([NerdWallet, 2023]). Their global reach attracts users worldwide seeking cryptocurrency solutions and investment opportunities.
 
 ### Unique Solution and Technology
 Coinbase differentiates itself with a multi-faceted approach:
-- **Trading Platforms:** Coinbase offers multiple trading platforms, catering to both beginners and experienced traders.
-- **Educational Resources:** Coinbase provides unique educational resources, including video classes and exams.
-- **Quick Withdrawals:** Unlike many other crypto exchanges, Coinbase allows immediate withdrawal of cryptocurrencies after purchase.
-- **Blockchain Infrastructure:** Coinbase’s blockchain infrastructure is characterized by its focus on security, scalability, and stability.
-- **Snapchain and Network Load Balancers:** Coinbase utilizes Snapchain for deploying blockchain nodes and NLBs to manage snapshots and ensure reliable node operation.
+
+1. **Trading Platforms:** Coinbase offers multiple platforms, catering to beginners and experienced traders. These include the original Coinbase platform for simple transactions and Coinbase Advanced Trade for more sophisticated trading options. Additionally, Coinbase One provides no-fee trades for a monthly fee ([FourWeekMBA, n.d.]).
+
+2. **Educational Resources:** Coinbase provides educational resources, including video classes and exams, to educate users about cryptocurrency trading. This "learn to earn" approach allows users to earn cryptocurrencies while learning about them ([FourWeekMBA, n.d.]).
+
+3. **Quick Withdrawals:** Coinbase enables immediate withdrawal of cryptocurrencies after purchase with fiat currency, benefiting users who want to use cryptocurrency in decentralized apps and other services ([NerdWallet, 2023]).
+
+4. **Blockchain Infrastructure:** Coinbase’s infrastructure focuses on security, scalability, and stability. It is "blockchain agnostic," allowing easy integration of new blockchain technologies. Key aspects include immutability, ephemerality, consensus, and automation ([AWS Startups Blog, n.d.]).
+
+5. **Snapchain and Network Load Balancers:** Coinbase uses Snap chain for deploying blockchain nodes and Network Load Balancers (NLBs) to manage snapshots and ensure reliable node operation, minimizing network sync time and enabling rapid redeployment of blockchain states ([AWS Startups Blog, n.d.]).
+
+These technological innovations and strategic approaches position Coinbase as a comprehensive and user-friendly platform in the cryptocurrency market.
+
 
 ## References
 - Wikipedia. (2023). *Coinbase*. [URL](https://en.wikipedia.org/wiki/Coinbase)
