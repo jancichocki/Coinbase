@@ -138,7 +138,7 @@ These strategic recommendations aim to broaden Coinbase's market footprint, enha
 - Crunchbase. (2023). *Coinbase - Funding, Financials, Valuation & Investors*. [Link](https://www.crunchbase.com/organization/coinbase)
 - FourWeekMBA. (n.d.). *Coinbase Business Model*. [Link](https://fourweekmba.com/coinbase-business-model/)
 - NerdWallet. (2023). *Coinbase Review 2023: Pros, Cons and How It Compares*. [Link](https://www.nerdwallet.com/reviews/investing/brokers/coinbase)
-- AWS Startups Blog. (n.d.). *How Coinbase Builds Its Blockchain Infrastructure*. [Link](https://)
+- AWS Startups Blog. (n.d.). *How Coinbase Builds Its Blockchain Infrastructure*. [Link](https://aws.amazon.com/blogs/startups/how-coinbase-builds-its-blockchain-infrastructure/)
 - Deloitte Insights. (n.d.). *Blockchain trends*. [Link](https://)
 - Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [Link](https://)
 - Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*. [Link](https://)
