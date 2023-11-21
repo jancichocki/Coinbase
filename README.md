@@ -140,6 +140,6 @@ These strategic recommendations aim to broaden Coinbase's market footprint, enha
 - NerdWallet. (2023). *Coinbase Review 2023: Pros, Cons and How It Compares*. [Link](https://www.nerdwallet.com/reviews/investing/brokers/coinbase)
 - AWS Startups Blog. (n.d.). *How Coinbase Builds Its Blockchain Infrastructure*. [Link](https://aws.amazon.com/blogs/startups/how-coinbase-builds-its-blockchain-infrastructure/)
 - Deloitte Insights. (n.d.). *Blockchain trends*. [Link](https://www.deloitte.com/global/en/our-thinking/insights/topics/technology-management/tech-trends/2022/blockchain-trends.html)
-- Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [Link](https://)
+- Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [Link](https://bstrategyhub.com/coinbase-competitors-alternatives/)
 - Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*. [Link](https://)
 - Benzinga. (2023). *Who Are Coinbase's Competitors?*. [Link](https://)
