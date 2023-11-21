@@ -1,4 +1,4 @@
-![Coinbase](Coinbase.png)
+![Coinbase](CoinbaseShadow.png)
 
 # Coinbase Case Study
 
