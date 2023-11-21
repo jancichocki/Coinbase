@@ -5,7 +5,7 @@
 ## Contents
 1. [Overview and Origin](#overview-and-origin)
 2. [Business Activities](#business-activities)
-3. [Landscape](#landscape-overview)
+3. [Landscape](#landscape)
 4. [Results](#results)
 5. [Recommendations](#recommendations)
 6. [References](#references)
@@ -37,7 +37,7 @@ Coinbase differentiates itself with a multi-faceted approach:
 
 These technological innovations and strategic approaches position Coinbase as a comprehensive and user-friendly platform in the cryptocurrency market.
 
-## Landscape Overview
+## Landscape
 
 Coinbase operates within the blockchain and cryptocurrency domain, a field that has witnessed substantial technological progress and increased adoption in recent years ([Deloitte Insights, 2023]).
 
@@ -101,7 +101,7 @@ When compared to competitors, Coinbase shows distinct strengths and challenges:
 
 These metrics and comparative analyses indicate that while Coinbase remains a significant player in the cryptocurrency exchange market, it faces stiff competition and market volatility, impacting its financial performance and market positioning.
 
-## Strategic Recommendations
+## Recommendations
 
 ### Strategic Guidance for the Company
 
