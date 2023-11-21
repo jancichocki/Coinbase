@@ -11,11 +11,11 @@
 6. [References](#references)
 
 ## Overview and Origin
-Founded in June 2012 by Brian Armstrong, a former Airbnb engineer, and Fred Ehrsam, an ex-Goldman Sachs trader, Coinbase has established itself as a leading cryptocurrency exchange platform (Wikipedia, 2023). The inception of the company was supported by Y Combinator, a startup incubator program, which initially injected $150,000 into the venture (Wikipedia, 2023).
+Founded in June 2012 by Brian Armstrong, a former Airbnb engineer, and Fred Ehrsam, an ex-Goldman Sachs trader, Coinbase has established itself as a leading cryptocurrency exchange platform (Daily Coin, n.d.). The inception of the company was supported by Y Combinator, a startup incubator program, which initially injected $150,000 into the venture (Daily Coin, n.d.).
 
 Throughout its existence, Coinbase has successfully navigated numerous funding rounds, amassing a total of $678.7 million across 19 distinct rounds (Crunchbase, 2023). Its most recent round of funding was a post-IPO debt round that took place on September 5, 2023 (Crunchbase, 2023). The company's financial backing comes from a diverse pool of 78 investors, notable among them being ARK Investment Management and ADM VENTURES (Crunchbase, 2023).
 
-Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Wikipedia, 2023).
+Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Daily Coin, n.d.).
 
 ## Business Activities
 
