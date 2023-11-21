@@ -57,43 +57,43 @@ Coinbase operates within the blockchain and cryptocurrency domain, which has wit
 - **Description:** Binance is a leading global cryptocurrency exchange known for a wide range of crypto-currency offerings.
 - **Differences:** It is particularly recognized for its user-friendly interface and is rated as the easiest to use in cryptocurrency exchange software (G2, n.d.).
 
-### Gate.io
+#### Gate.io
 - **Description:** Established in 2013, Gate.io is a top global cryptocurrency exchange offering over 1400 digital currencies.
 - **Differences:** It has a broader range of digital currencies than many competitors and is known for pioneering in cryptocurrency exchange (G2, n.d.).
 
-### OKX
+#### OKX
 - **Description:** OKX is the second-largest global crypto exchange by trading volume and a leader in the Web3 ecosystem.
 - **Differences:** It offers monthly Proof of Reserve releases and is known for its fast and reliable trading platform (G2, n.d.).
 
-### eToro
+#### eToro
 - **Description:** eToro is a leader in the global Fintech revolution, renowned as the world-leading social trading network.
 - **Differences:** It offers a range of innovative trading and investment tools, appealing especially to social traders (G2, n.d.).
 
-### Zengo Wallet
+#### Zengo Wallet
 - **Description:** Zengo is a highly secure crypto wallet without seed phrase vulnerability.
 - **Differences:** It is known for its advanced security features and self-custodial wallet that prioritizes user security (G2, n.d.).
 
-### PrimeXBT
+#### PrimeXBT
 - **Description:** PrimeXBT is a technologically advanced cryptocurrency exchange suitable for beginners and professional traders.
 - **Differences:** It allows users to trade more than 30 assets with leverage and focuses on technology and user experience (G2, n.d.).
 
-### Kraken
+#### Kraken
 - **Description:** Kraken is a long-standing digital asset platform offering trading over 200 digital assets.
 - **Differences:** It provides trading in various national currencies and is known for its global reach and comprehensive asset offerings (G2, n.d.).
 
-### CoinDCX
+#### CoinDCX
 - **Description:** Based in Singapore, CoinDCX specializes in crypto-enabled financial services.
 - **Differences:** It focuses on developing borderless financial services and is known for its innovative approach to crypto-based products (G2, n.d.).
 
-### Crypto.com App
+#### Crypto.com App
 - **Description:** The Crypto.com App allows users to buy and sell over 100 cryptocurrencies with multiple fiat currencies.
 - **Differences:** Known for its high earning rates on crypto assets and its versatile Visa card offering (G2, n.d.).
 
-### Kucoin
+#### Kucoin
 - **Description:** Kucoin focuses on providing safe and convenient digital asset transaction and exchange services.
 - **Differences:** It is known for integrating premium assets worldwide and constructing advanced transaction platforms (G2, n.d.).
 
-### Gemini
+#### Gemini
 - **Description:** Gemini is a regulated cryptocurrency exchange subject to various compliance standards.
 - **Differences:** Known for focusing on fiduciary obligations and compliance with banking standards (G2, n.d.).
 
