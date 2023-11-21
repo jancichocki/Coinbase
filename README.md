@@ -73,7 +73,7 @@ Coinbase operates within the blockchain and cryptocurrency domain, a field that 
 
 These competitors adopt a variety of strategies, from technological innovation and expanding cryptocurrency offerings to targeting specific user segments and developing new business models within the evolving landscape of blockchain and cryptocurrency.
 
-##Results
+## Results
 
 ### Impact and Metrics
 Coinbase's business impact can be assessed through various metrics:
