@@ -130,12 +130,12 @@ These metrics and comparative analyses indicate that while Coinbase remains a si
 These strategic recommendations aim to broaden Coinbase's market footprint, enhance user experience, and strengthen security, which are pivotal for maintaining growth momentum in the ever-evolving landscape of cryptocurrencies and blockchain technology.
 
 ## References
-- Wikipedia. (2023). *Coinbase*. [URL](https://en.wikipedia.org/wiki/Coinbase)
-- Crunchbase. (2023). *Coinbase - Funding, Financials, Valuation & Investors*. [URL](https://www.crunchbase.com/organization/coinbase/company_financials)
-- FourWeekMBA. (n.d.). *Coinbase Business Model*. [URL](#)
-- NerdWallet. (2023). *Coinbase Review 2023: Pros, Cons and How It Compares*. [URL](#)
-- AWS Startups Blog. (n.d.). *How Coinbase Builds Its Blockchain Infrastructure*. [URL](#)
+- Daily Coin. (n.d.). Brian Armstrong: The Coinbase CEO Leading Cryptocurrency Adoption. 
+- Crunchbase. (2023). *Coinbase - Funding, Financials, Valuation & Investors*.
+- FourWeekMBA. (n.d.). *Coinbase Business Model*.
+- NerdWallet. (2023). *Coinbase Review 2023: Pros, Cons and How It Compares*.
+- AWS Startups Blog. (n.d.). *How Coinbase Builds Its Blockchain Infrastructure*.
 - Deloitte Insights. (n.d.). *Blockchain trends*. [URL](#)
-- Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*. [URL](#)
-- Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*. [URL](#)
-- Benzinga. (2023). *Who Are Coinbase's Competitors?*. [URL](#)
+- Business Strategy Hub. (n.d.). *Top 25 Coinbase Competitors and Alternatives*.
+- Business of Apps. (2023). *Coinbase Revenue and Usage Statistics*.
+- Benzinga. (2023). *Who Are Coinbase's Competitors?*.
