@@ -11,11 +11,11 @@
 6. [References](#references)
 
 ## Overview and Origin
-Founded in June 2012 by Brian Armstrong, a former Airbnb engineer, and Fred Ehrsam, an ex-Goldman Sachs trader, Coinbase has established itself as a leading cryptocurrency exchange platform (Daily Coin, n.d.). The inception of the company was supported by Y Combinator, a startup incubator program, which initially injected $150,000 into the venture (Daily Coin, n.d.).
+Founded in June 2012 by Brian Armstrong, a former Airbnb engineer, and Fred Ehrsam, an ex-Goldman Sachs trader, Coinbase has established itself as a leading cryptocurrency exchange platform (Daily Coin, n.d.). The company's inception was supported by Y Combinator, a startup incubator program, which initially injected $150,000 into the venture (Daily Coin, n.d.).
 
-Throughout its existence, Coinbase has successfully navigated numerous funding rounds, amassing a total of $678.7 million across 19 distinct rounds (Crunchbase, 2023). Its most recent round of funding was a post-IPO debt round that took place on September 5, 2023 (Crunchbase, 2023). The company's financial backing comes from a diverse pool of 78 investors, notable among them being ARK Investment Management and ADM VENTURES (Crunchbase, 2023).
+Throughout its existence, Coinbase has successfully navigated numerous funding rounds, amassing $678.7 million across 19 distinct rounds (Crunchbase, 2023). Its most recent round of funding was a post-IPO debt round on September 5, 2023 (Crunchbase, 2023). The company's financial backing comes from a diverse pool of 78 investors, notably ARK Investment Management and ADM VENTURES (Crunchbase, 2023).
 
-Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Daily Coin, n.d.).
+Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors, including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Daily Coin, n.d.).
 
 ## Business Activities
 
@@ -25,11 +25,11 @@ Coinbase aims to address the complexities and security concerns associated with 
 ### Unique Solution and Technology
 Coinbase differentiates itself with a multi-faceted approach:
 
-1. **Trading Platforms:** Coinbase offers multiple platforms, catering to beginners and experienced traders. These include the original Coinbase platform for simple transactions and Coinbase Advanced Trade for more sophisticated trading options. Additionally, Coinbase One provides no-fee trades for a monthly fee (FourWeekMBA, n.d.).
+1. **Trading Platforms:** Coinbase offers multiple platforms catering to beginners and experienced traders. These include the original Coinbase platform for simple transactions and Coinbase Advanced Trade for more sophisticated trading options. Additionally, Coinbase One provides no-fee trades for a monthly fee (FourWeekMBA, n.d.).
 
 2. **Educational Resources:** Coinbase provides educational resources, including video classes and exams, to educate users about cryptocurrency trading. This "learn to earn" approach allows users to earn cryptocurrencies while learning about them (FourWeekMBA, n.d.).
 
-3. **Quick Withdrawals:** Coinbase enables immediate withdrawal of cryptocurrencies after purchase with fiat currency, benefiting users who want to use cryptocurrency in decentralized apps and other services (NerdWallet, 2023).
+3. **Quick Withdrawals:** Coinbase enables immediate withdrawal of cryptocurrencies after fiat currency purchases, benefiting users who want to use cryptocurrency in decentralized apps and other services (NerdWallet, 2023).
 
 4. **Blockchain Infrastructure:** Coinbase’s infrastructure focuses on security, scalability, and stability. It is "blockchain agnostic," allowing easy integration of new blockchain technologies. Key aspects include immutability, ephemerality, consensus, and automation (AWS Startups Blog, n.d.).
 
@@ -39,73 +39,70 @@ These technological innovations and strategic approaches position Coinbase as a 
 
 ## Landscape
 
-Coinbase operates within the blockchain and cryptocurrency domain, a field that has witnessed substantial technological progress and increased adoption in recent years (Deloitte Insights, 2023).
+Coinbase operates within the blockchain and cryptocurrency domain, which has witnessed substantial technological progress and increased adoption in recent years (Deloitte Insights, 2023).
 
 ### Noteworthy Trends
 
-- **Beyond Speculation:** Blockchain and distributed ledger technologies (DLTs), initially linked with cryptocurrencies, have evolved to facilitate a broad spectrum of business applications across various industries, thereby creating new opportunities for value creation (Deloitte Insights, 2023).
+- **Beyond Speculation:** Blockchain and distributed ledger technologies (DLTs), initially linked with cryptocurrencies, have evolved to facilitate a broad spectrum of business applications across various industries, creating new value-creation opportunities (Deloitte Insights, 2023).
 
 - **Technological Advancements:** Initial generations of blockchain and DLTs encountered issues such as slow transaction speeds and high energy consumption. However, recent developments have resulted in more practical and scalable solutions like nonpublic and permissioned networks, thus spurring enterprise adoption (Deloitte Insights, 2023).
 
-- **Innovation Ecosystems and Interoperability:** The advent of new protocols and platforms has enhanced interoperability among different blockchain platforms, promoting collaboration and data sharing across multiple industries (Deloitte Insights, 2023).
+- **Innovation Ecosystems and Interoperability:** The advent of new protocols and platforms has enhanced interoperability among blockchain platforms, promoting collaboration and data sharing across multiple industries (Deloitte Insights, 2023).
 
-- **Diverse Industry Applications:** Blockchain technologies are finding use in sectors beyond financial services, including healthcare, retail, and government. Applications range from secure data-sharing, intercompany accounting, and supply chain transparency to creator monetization (Deloitte Insights, 2023).
+- **Diverse Industry Applications:** Blockchain technologies are used in sectors beyond financial services, including healthcare, retail, and government. Applications range from secure data-sharing, intercompany accounting, supply chain transparency, and creator monetization (Deloitte Insights, 2023).
 
 ### Key Competitors and Their Market Strategies
 
 # Coinbase Competitors
 
-## Binance
-- **Description:** Binance is a leading global cryptocurrency exchange, known for a wide range of crypto-currency offerings.
-- **Differences:** It is particularly recognized for its user-friendly interface and is rated as the easiest to use in cryptocurrency exchange software.
+### Binance
+- **Description:** Binance is a leading global cryptocurrency exchange known for a wide range of crypto-currency offerings.
+- **Differences:** It is particularly recognized for its user-friendly interface and is rated as the easiest to use in cryptocurrency exchange software (G2, n.d.).
 
-## Gate.io
+### Gate.io
 - **Description:** Established in 2013, Gate.io is a top global cryptocurrency exchange offering over 1400 digital currencies.
-- **Differences:** It has a broader range of digital currencies compared to many competitors and is known for pioneering in the cryptocurrency exchange world.
+- **Differences:** It has a broader range of digital currencies than many competitors and is known for pioneering in cryptocurrency exchange (G2, n.d.).
 
-## OKX
-- **Description:** OKX is the second largest global crypto exchange by trading volume and a leader in the Web3 ecosystem.
-- **Differences:** It offers monthly Proof of Reserve releases and is known for its fast and reliable trading platform.
+### OKX
+- **Description:** OKX is the second-largest global crypto exchange by trading volume and a leader in the Web3 ecosystem.
+- **Differences:** It offers monthly Proof of Reserve releases and is known for its fast and reliable trading platform (G2, n.d.).
 
-## eToro
+### eToro
 - **Description:** eToro is a leader in the global Fintech revolution, renowned as the world-leading social trading network.
-- **Differences:** It offers a range of innovative trading and investment tools, appealing especially to social traders.
+- **Differences:** It offers a range of innovative trading and investment tools, appealing especially to social traders (G2, n.d.).
 
-## Zengo Wallet
+### Zengo Wallet
 - **Description:** Zengo is a highly secure crypto wallet without seed phrase vulnerability.
-- **Differences:** It is known for its advanced security features and self-custodial wallet that prioritizes user security.
+- **Differences:** It is known for its advanced security features and self-custodial wallet that prioritizes user security (G2, n.d.).
 
-## PrimeXBT
-- **Description:** PrimeXBT is a technologically advanced cryptocurrency exchange suitable for both beginners and professional traders.
-- **Differences:** It allows users to trade more than 30 assets with leverage and focuses on technology and user experience.
+### PrimeXBT
+- **Description:** PrimeXBT is a technologically advanced cryptocurrency exchange suitable for beginners and professional traders.
+- **Differences:** It allows users to trade more than 30 assets with leverage and focuses on technology and user experience (G2, n.d.).
 
-## Kraken
-- **Description:** Kraken is a long-standing digital asset platform, offering trading in more than 200 digital assets.
-- **Differences:** It provides trading in various national currencies and is known for its global reach and comprehensive asset offerings.
+### Kraken
+- **Description:** Kraken is a long-standing digital asset platform offering trading over 200 digital assets.
+- **Differences:** It provides trading in various national currencies and is known for its global reach and comprehensive asset offerings (G2, n.d.).
 
-## CoinDCX
+### CoinDCX
 - **Description:** Based in Singapore, CoinDCX specializes in crypto-enabled financial services.
-- **Differences:** It focuses on developing borderless financial services and is known for its innovative approach to crypto-based products.
+- **Differences:** It focuses on developing borderless financial services and is known for its innovative approach to crypto-based products (G2, n.d.).
 
-## Crypto.com App
+### Crypto.com App
 - **Description:** The Crypto.com App allows users to buy and sell over 100 cryptocurrencies with multiple fiat currencies.
-- **Differences:** Known for its high earning rates on crypto assets and its versatile Visa card offering.
+- **Differences:** Known for its high earning rates on crypto assets and its versatile Visa card offering (G2, n.d.).
 
-## Kucoin
+### Kucoin
 - **Description:** Kucoin focuses on providing safe and convenient digital asset transaction and exchange services.
-- **Differences:** It is known for integrating premium assets worldwide and constructing advanced transaction platforms.
+- **Differences:** It is known for integrating premium assets worldwide and constructing advanced transaction platforms (G2, n.d.).
 
-## Gemini
-- **Description:** Gemini is a regulated cryptocurrency exchange, subject to various compliance standards.
-- **Differences:** Known for its focus on fiduciary obligations and compliance with banking standards.
+### Gemini
+- **Description:** Gemini is a regulated cryptocurrency exchange subject to various compliance standards.
+- **Differences:** Known for focusing on fiduciary obligations and compliance with banking standards (G2, n.d.).
 
-Each of these competitors offers unique features and services, differentiating themselves from Coinbase in various aspects such as range of currencies offered, technological advancements, market focus, and regulatory compliance.
+Each of these competitors offers unique features and services, differentiating themselves from Coinbase in various aspects such as the range of the currencies provided, technological advancements, market focus, and regulatory compliance.
+(G2, n.d.)
 
-## Reference
-
-
-
-These competitors adopt a variety of strategies, from technological innovation and expanding cryptocurrency offerings to targeting specific user segments and developing new business models within the evolving landscape of blockchain and cryptocurrency.
+These competitors adopt various strategies, from technological innovation and expanding cryptocurrency offerings to targeting specific user segments and developing new business models within the evolving landscape of blockchain and cryptocurrency.
 
 ## Results
 
@@ -113,11 +110,11 @@ These competitors adopt a variety of strategies, from technological innovation a
 
 In the face of a turbulent cryptocurrency market and its recent transition to a publicly traded entity, several key metrics underscore Coinbase's business resilience and impact:
 
-- **Revenue:** Despite challenging market dynamics, Coinbase reported revenue of $3.1 billion in 2022, down from $7.8 billion in 2021. This 59.2% decline, while significant, is comparatively better than many competitors, demonstrating the company's ability to navigate market fluctuations (Business of Apps, 2023).
+- **Revenue:** Despite challenging market dynamics, Coinbase reported $3.1 billion in 2022, down from $7.8 billion in 2021. This 59.2% decline, while significant, is comparatively better than many competitors, demonstrating the company's ability to navigate market fluctuations (Business of Apps, 2023).
 
 - **Net Loss:** Reflecting the broader market trends and its recent public listing, Coinbase recorded a net loss of $2.6 billion in 2022, a marked shift from a net profit of $3 billion in 2021 (Business of Apps, 2023).
 
-- **User Base:** In spite of market volatility, Coinbase sustained a robust user base, with 98 million registered users and 9 million active monthly users reported in early 2022. This underscores ongoing user trust and engagement (Business of Apps, 2023).
+- **User Base:** Despite market volatility, Coinbase sustained a robust user base, with 98 million registered users and 9 million active monthly users reported in early 2022. This underscores user trust and engagement (Business of Apps, 2023).
 
 - **Valuation:** While adjusting to market conditions, Coinbase's valuation stood at approximately $18 billion in 2022, down from $65 billion in 2021, reflecting a recalibration in line with overall market trends (Business of Apps, 2023).
 
