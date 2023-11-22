@@ -15,8 +15,6 @@ Founded in June 2012 by Brian Armstrong, a former Airbnb engineer, and Fred Ehrs
 
 Throughout its existence, Coinbase has successfully navigated numerous funding rounds, amassing $678.7 million across 19 distinct rounds (Crunchbase, 2023). Its most recent round of funding was a post-IPO debt round on September 5, 2023 (Crunchbase, 2023). The company's financial backing comes from a diverse pool of 78 investors, notably ARK Investment Management and ADM VENTURES (Crunchbase, 2023).
 
-Coinbase reached a significant funding milestone in January 2015, securing an investment of $75 million from a group of investors, including Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks. In the same month, the company expanded its offerings by launching Coinbase Exchange, a U.S.-based bitcoin exchange tailored for professional traders (Daily Coin, n.d.).
-
 ## Business Activities
 
 ### Problem and Customers
